@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM ngohaibac/debian-armel:jessie
 
 MAINTAINER NGINX Docker Maintainers "docker-maint@nginx.com"
 
